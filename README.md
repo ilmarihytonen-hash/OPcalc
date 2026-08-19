@@ -51,11 +51,12 @@ OP Calc requires Python 3.10 or newer.
 
 Python 3.13 and Python 3.14 should work.
 
-You can check your Python version with:
+You also require sympy for the program to work and can be installed with the command bellow:
+pip install sympy
 
-Installation: 
-    run run.ps1 if you use Windows
-    run run.sh if you use Linux
+Running of the program: 
+    run the .py script if you use Windows
+    run xxx if you use Linux(Not currently supported)
 
 
 

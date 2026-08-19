@@ -50,8 +50,11 @@ It supports:
 OP Calc requires Python 3.10 or newer.
 
 Python 3.13 and Python 3.14 should work.
+If you don't have python installed on you computer you can install it from the microsoft store or from https://www.python.org/downloads/
 
-You also require sympy for the program to work and can be installed with the command bellow:
+You also require sympy for the program to work and can be installed with the instructions bellow:
+
+Run this in powershell that you can get my doing win + R and type in powershell and pressing enterin powershell type the command displayed bellow and press enter:
 pip install sympy
 
 Running of the program: 

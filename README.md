@@ -1,6 +1,6 @@
 # OPcalc
 
- ==============================================================================
+ ==========================================================================
   OPcalc project
   Copyright (C) 2026 OPcalc project Contributors
 
@@ -8,7 +8,7 @@
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
- ==============================================================================
+ ==========================================================================
 
 ## Advanced Mathematics & Physics Calculator
 

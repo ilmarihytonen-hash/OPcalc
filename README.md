@@ -1,5 +1,15 @@
 # OPcalc
 
+ ==============================================================================
+  OPcalc project
+  Copyright (C) 2026 OPcalc project Contributors
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+ ==============================================================================
+
 ## Advanced Mathematics & Physics Calculator
 
 OP Calc is a Python/Tkinter calculator designed for mathematics, physics, engineering, and scientific calculations.
@@ -43,12 +53,9 @@ Python 3.13 and Python 3.14 should work.
 
 You can check your Python version with:
 
-```powershell
-python --version
-
-
-Installation:
-python -m pip install sympy antlr4-python3-runtime==4.11
+Installation: 
+    run run.ps1 if you use Windows
+    run run.sh if you use Linux
 
 
 

@@ -1,17 +1,43 @@
+# ==============================================================================
+#  OPcalc project
+#  Copyright (C) 2026 OPcalc project Contributors
+#
+#  This program is free software: you can redistribute it and/or modify
+#  it under the terms of the GNU General Public License as published by
+#  the Free Software Foundation, either version 3 of the License, or
+#  (at your option) any later version.
+# ==============================================================================
+
+
+
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 import sympy as sp
 import json
 import os
 import re
+import time
 from datetime import datetime
 
 # ============================================================
 # OP CALC - Advanced Physics / Mathematics Calculator
 # ============================================================
 
-APP_NAME = "OP Calc"
-VERSION = "4.0"
+print("Starting OPcalc 4.0")
+time.sleep(0.5)
+print("# ==============================================================================")
+print("#  OPcalc project")
+print("#  Copyright (C) 2026 OPcalc project Contributors")
+print("#")
+print("#  This program is free software: you can redistribute it and/or modify")
+print("#  it under the terms of the GNU General Public License as published by")
+print("#  the Free Software Foundation, either version 3 of the License, or")
+print("#  (at your option) any later version.")
+print("# ==============================================================================")
+time.sleep(5)
+
+APP_NAME = "OPcalc"
+VERSION = "Alpha release: 0.8.19.26"
 
 HISTORY_FILE = os.path.join(
     os.path.dirname(os.path.abspath(__file__)),

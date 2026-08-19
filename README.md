@@ -45,3 +45,10 @@ You can check your Python version with:
 
 ```powershell
 python --version
+
+
+Installation:
+python -m pip install sympy antlr4-python3-runtime==4.11
+
+
+
